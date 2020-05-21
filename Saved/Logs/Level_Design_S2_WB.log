@@ -1082,3 +1082,857 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.21-15.21.17:987][740]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.21-15.21.17:987][740]LogContentValidation: Display: Validating World /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox
 [2020.05.21-15.21.17:987][740]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/WhiteBox/Wendigo_Asylum_WhiteBox_BuiltData.Wendigo_Asylum_WhiteBox_BuiltData
+[2020.05.21-15.24.40:974][284]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f9ac6068-0405-4535-91a5-beb0e8dec71b}.
+[2020.05.21-15.24.40:974][284]LogTemp: Resetting audio stream to device id 
+[2020.05.21-15.24.41:062][284]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-15.24.41:062][284]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-15.25.51:495][958]LogEditorViewport: Clicking Background
+[2020.05.21-15.27.34:659][265]Cmd: TRANSACTION UNDO
+[2020.05.21-15.27.34:659][265]LogEditorTransaction: Undo Create Actors
+[2020.05.21-15.27.34:671][265]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.ModelComponent_4509' invalid (17832 verts, 0 indices).
+[2020.05.21-15.27.34:672][265]LogPhysics: Warning: Attempt to build physics data for /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.ModelComponent_4509.BodySetup_0 when we are unable to.
+[2020.05.21-15.27.35:965][319]LogMaterial: Display: Missing cached shader map for material HE_Candle, compiling. 
+[2020.05.21-15.27.36:090][319]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.05.21-15.27.36:090][319]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.05.21-15.27.36:090][319]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.05.21-15.27.41:275][597]Cmd: TRANSACTION UNDO
+[2020.05.21-15.27.41:275][597]LogEditorTransaction: Undo Create Actors
+[2020.05.21-15.27.41:296][597]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.ModelComponent_4509' invalid (17832 verts, 0 indices).
+[2020.05.21-15.27.41:296][597]LogPhysics: Warning: Attempt to build physics data for /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.ModelComponent_4509.BodySetup_0 when we are unable to.
+[2020.05.21-15.27.43:289][711]LogMaterial: Display: Missing cached shader map for material HE_Book, compiling. 
+[2020.05.21-15.27.55:600][366]Cmd: TRANSACTION UNDO
+[2020.05.21-15.27.55:600][366]LogEditorTransaction: Undo Create Actors
+[2020.05.21-15.27.55:626][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.ModelComponent_4509' invalid (17832 verts, 0 indices).
+[2020.05.21-15.27.55:626][366]LogPhysics: Warning: Attempt to build physics data for /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.ModelComponent_4509.BodySetup_0 when we are unable to.
+[2020.05.21-15.28.00:743][589]LogMaterial: Display: Missing cached shader map for material HE_MonitorScreen, compiling. 
+[2020.05.21-15.29.51:093][918]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 80
+[2020.05.21-15.30.07:218][931]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2020.05.21-15.30.20:657][741]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.05.21-15.30.32:696][686]Cmd: TRANSACTION UNDO
+[2020.05.21-15.30.32:696][686]LogEditorTransaction: Undo Rotate Actors
+[2020.05.21-15.31.19:711][797]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2020.05.21-15.31.25:630][865]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.05.21-15.31.28:404][900]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2020.05.21-15.31.28:688][904]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.05.21-15.31.36:949][  9]LogRenderer: Reallocating scene render targets to support 1076x572 Format 10 NumSamples 1 (Frame:79494).
+[2020.05.21-15.31.37:010][ 10]LogRenderer: Reallocating scene render targets to support 1104x572 Format 10 NumSamples 1 (Frame:79496).
+[2020.05.21-15.31.37:071][ 11]LogRenderer: Reallocating scene render targets to support 1164x572 Format 10 NumSamples 1 (Frame:79498).
+[2020.05.21-15.31.37:138][ 12]LogRenderer: Reallocating scene render targets to support 1236x572 Format 10 NumSamples 1 (Frame:79500).
+[2020.05.21-15.31.37:217][ 13]LogRenderer: Reallocating scene render targets to support 1308x572 Format 10 NumSamples 1 (Frame:79502).
+[2020.05.21-15.31.37:798][ 13]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.05.21-15.31.39:473][ 13]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.05.21-15.31.41:331][ 13]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.05.21-15.31.42:205][ 14]LogRenderer: Reallocating scene render targets to support 1376x572 Format 10 NumSamples 1 (Frame:79504).
+[2020.05.21-15.31.42:785][ 15]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.05.21-15.31.44:234][ 15]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.05.21-15.31.44:565][ 15]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.05.21-15.32.14:152][206]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.05.21-15.32.28:357][970]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.05.21-15.32.29:606][ 78]Cmd: SELECT NONE
+[2020.05.21-15.32.47:157][473]LogEditorViewport: Clicking on Actor (LMB): Pointlight_C (Pointlight13)
+[2020.05.21-15.32.59:170][513]MapCheck: New page: Map Check
+[2020.05.21-15.32.59:187][513]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.21-15.32.59:189][513]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.21-15.33.01:566][513]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=false
+[2020.05.21-15.33.02:100][513]LightingResults: New page: Lighting Build - 21 May 2020, 17:33:02
+[2020.05.21-15.33.02:338][513]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.21-15.33.02:534][513]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.21-15.33.02:557][513]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.21-15.33.03:611][513]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.21-15.33.03:611][513]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17572
+[2020.05.21-15.33.06:595][513]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.05.21-15.33.06:597][513]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.21-15.33.06:597][513]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.21-15.33.06:597][513]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.21-15.33.06:597][513]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.21-15.33.06:597][513]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.21-15.33.07:144][513]LogEditorBuildUtils: Build time 0:07
+[2020.05.21-15.33.07:155][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_104, compiling. 
+[2020.05.21-15.33.07:158][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_104, compiling. 
+[2020.05.21-15.33.07:210][514]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.21-15.33.07:210][514]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.21-15.33.07:210][514]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.05.21-15.33.07:227][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Tile, compiling. 
+[2020.05.21-15.33.07:232][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Tile, compiling. 
+[2020.05.21-15.33.07:295][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Rock, compiling. 
+[2020.05.21-15.33.07:298][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_Rock, compiling. 
+[2020.05.21-15.33.07:302][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_RampMaterial, compiling. 
+[2020.05.21-15.33.07:305][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer He_RampMaterial, compiling. 
+[2020.05.21-15.33.07:356][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_MonitorScreen, compiling. 
+[2020.05.21-15.33.07:361][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_MonitorScreen, compiling. 
+[2020.05.21-15.33.07:364][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Glass, compiling. 
+[2020.05.21-15.33.07:369][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_Glass, compiling. 
+[2020.05.21-15.33.13:941][517]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.05.21-15.33.13:941][517]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.05.21-15.33.13:941][517]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.05.21-15.33.13:941][517]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.05.21-15.33.13:941][517]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.05.21-15.33.13:941][517]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.05.21-15.33.15:218][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.21-15.33.24:080][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.21-15.33.24:665][963]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Wendigo_Asylum_WhiteBox_Auto1F02B92DE443B0B00921181B4A8A23DDC.tmp' to '../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/WhiteBox/Wendigo_Asylum_WhiteBox_Auto1.umap'
+[2020.05.21-15.33.24:668][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WhiteBox/Wendigo_Asylum_WhiteBox' took 0.621
+[2020.05.21-15.33.24:669][963]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.621
+[2020.05.21-15.33.24:670][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HorrorEngine/HorrorEngine] ([1] browsable assets)...
+[2020.05.21-15.33.24:670][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/HorrorEngine]
+[2020.05.21-15.33.24:670][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/HorrorEngine" FILE="../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/HorrorEngine/HorrorEngine_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.21-15.33.24:813][963]LogActorComponent: RegisterComponentWithWorld: (/Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.DESTROYED_HorrorEngine_C_CHILDACTOR_344.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.21-15.33.24:818][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_HorrorEngine_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.21-15.33.24:879][963]LogActorComponent: RegisterComponentWithWorld: (/Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.DESTROYED_HorrorEngine_C_CHILDACTOR_346.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.21-15.33.24:884][963]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_HorrorEngine_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.21-15.33.25:871][963]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/HorrorEngine_Auto1C6F1B76648DE130EEF0BA688D34F3CB3.tmp' to '../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/HorrorEngine/HorrorEngine_Auto1.uasset'
+[2020.05.21-15.33.25:890][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HorrorEngine/Audio/Footsteps/Rock_Cue] ([1] browsable assets)...
+[2020.05.21-15.33.25:891][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/Audio/Footsteps/Rock_Cue]
+[2020.05.21-15.33.25:908][963]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Rock_Cue_Auto1057A1EC14A4ADFCD3A1561A29385FB62.tmp' to '../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/HorrorEngine/Audio/Footsteps/Rock_Cue_Auto1.uasset'
+[2020.05.21-15.33.25:910][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HorrorEngine/Audio/Footsteps/Grass_Jump_Cue] ([1] browsable assets)...
+[2020.05.21-15.33.25:910][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/Audio/Footsteps/Grass_Jump_Cue]
+[2020.05.21-15.33.25:915][963]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Grass_Jump_Cue_Auto129CE60D64F45563510535F9567753885.tmp' to '../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/HorrorEngine/Audio/Footsteps/Grass_Jump_Cue_Auto1.uasset'
+[2020.05.21-15.33.25:917][963]LogFileHelpers: Auto-saving content packages took 1.248
+[2020.05.21-15.34.43:405][816]Job is a success!
+[2020.05.21-15.34.44:432][817]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.246s
+[2020.05.21-15.34.44:433][817]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.05.21-15.34.44:433][817]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb (trimmed 4.5Mb due to 0.010000 MinBrickError)
+[2020.05.21-15.34.44:433][817]LogVolumetricLightmapImport:      Bricks at depth
+[2020.05.21-15.34.44:433][817]LogVolumetricLightmapImport:          0: 9.6% covering 100.0% of volume
+[2020.05.21-15.34.44:433][817]LogVolumetricLightmapImport:          1: 90.4% covering 14.6% of volume
+[2020.05.21-15.34.44:433][817]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.05.21-15.34.44:433][817]LogVolumetricLightmapImport:      Bricks in each level
+[2020.05.21-15.34.44:441][817]LogVolumetricLightmapImport:          Wendigo_Asylum_WhiteBox 			 83 bricks 	 100.0% (Persistent Level)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 128X64)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2020.05.21-15.34.46:198][817]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 256X128)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 128X64)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 128X64)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 128X64)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 64X32)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 64X64)
+[2020.05.21-15.34.46:199][817]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 64X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 128X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 64X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 128X64)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 32X32)
+[2020.05.21-15.34.46:438][817]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2020.05.21-15.34.46:438][817]Lightmass on A-WRIGHT: 1:28 min total, 580 ms importing, 443 ms setup, 8.89 sec photons, 1:18 min processing, 0 ms extra exporting [1671/1671 mappings]. Threads: 5:15 min total, 52.0 sec processing.
+[2020.05.21-15.34.46:529][817]LogStaticLightingSystem: Wendigo_Asylum_WhiteBox_BuiltData storing lightmap data for 79 meshes in 16 LightmapResourceClusters (4.9 Meshes per cluster).
+[2020.05.21-15.34.46:637][817]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.05.21-15.34.46:653][817]LogMaterial: Display: Material /Game/HorrorEngine/Materials/HE_MonitorScreen.HE_MonitorScreen needed to have new flag set bUsedWithStaticLighting !
+[2020.05.21-15.34.46:654][817]LogMaterial: Display: Missing cached shader map for material HE_MonitorScreen, compiling. 
+[2020.05.21-15.34.46:727][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.05.21-15.34.46:728][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.05.21-15.34.46:728][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.05.21-15.34.46:739][817]LogStaticLightingSystem: Illumination: 1:44 min (1.03 sec encoding lightmaps, 121 ms encoding shadowmaps)
+[2020.05.21-15.34.46:759][817]LogStaticLightingSystem: Lightmap texture memory:  3.8 MB (1.2 MB streaming, 2.7 MB non-streaming), 24 textures
+[2020.05.21-15.34.46:759][817]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.1 MB streaming, 0.7 MB non-streaming), 11 textures
+[2020.05.21-15.34.47:676][817]DumpUnbuiltLightIteractions
+[2020.05.21-15.34.47:676][817]Lights with unbuilt interactions: 0
+[2020.05.21-15.34.47:676][817]
+[2020.05.21-15.34.47:676][817]Primitives with unbuilt interactions: 0
+[2020.05.21-15.34.56:624][817]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.05.21-15.34.56:758][818]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.21-15.34.56:758][818]MapCheck: New page: Wendigo_Asylum_WhiteBox - 21 May 2020, 17:34:56
+[2020.05.21-15.34.56:831][818]MapCheck: Warning: Master_GEN_VARIABLE_Master_C_CAT_326 More overridden materials (2) on static mesh component than are referenced (1) in source mesh 'Torch' 
+[2020.05.21-15.34.56:831][818]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 74.003ms to complete.
+[2020.05.21-15.36.59:215][174]LogSlate: Window 'Message Log' being destroyed
+[2020.05.21-15.36.59:222][174]LogSlate: Window 'Message Log' being destroyed
+[2020.05.21-15.43.39:551][471]LogUObjectHash: Compacting FUObjectHashTables data took  10.21ms
+[2020.05.21-15.43.40:835][471]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Wendigo_Asylum_WhiteBox_Auto241A4FDAC4F2F055479ADB7AEE558904D.tmp' to '../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/WhiteBox/Wendigo_Asylum_WhiteBox_Auto2.umap'
+[2020.05.21-15.43.40:838][471]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WhiteBox/Wendigo_Asylum_WhiteBox' took 1.352
+[2020.05.21-15.43.40:838][471]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.352
+[2020.05.21-15.43.40:839][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorEngine/Materials/HE_MonitorScreen] ([1] browsable assets)...
+[2020.05.21-15.43.40:850][471]OBJ SavePackage:     Rendered thumbnail for [Material /Game/HorrorEngine/Materials/HE_MonitorScreen.HE_MonitorScreen]
+[2020.05.21-15.43.40:851][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/Materials/HE_MonitorScreen]
+[2020.05.21-15.43.40:889][471]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/HE_MonitorScreen_Auto2A3714C194B55E1FCC3B3D4B680D99C73.tmp' to '../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/HorrorEngine/Materials/HE_MonitorScreen_Auto2.uasset'
+[2020.05.21-15.43.40:891][471]LogFileHelpers: Auto-saving content packages took 0.053
+[2020.05.21-15.47.19:372][661]LogEditorViewport: Clicking on Actor (LMB): Pointlight_C (Pointlight4)
+[2020.05.21-15.53.41:346][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.05.21-15.53.42:236][190]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Wendigo_Asylum_WhiteBox_Auto3013C9B5240255610E3628FA3A123C8C7.tmp' to '../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/WhiteBox/Wendigo_Asylum_WhiteBox_Auto3.umap'
+[2020.05.21-15.53.42:345][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WhiteBox/Wendigo_Asylum_WhiteBox' took 1.050
+[2020.05.21-15.53.42:345][190]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.050
+[2020.05.21-15.57.03:904][324]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Snow)
+[2020.05.21-15.57.04:699][379]Cmd: SELECT NONE
+[2020.05.21-15.58.00:873][930]Cmd: DELETE
+[2020.05.21-15.58.00:873][930]Cmd: ACTOR DELETE
+[2020.05.21-15.58.01:084][930]LogEditorActor: Deleted Actor: Brush
+[2020.05.21-15.58.01:124][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.05.21-15.58.01:318][930]LogEditorActor: Deleted 1 Actors (0.365 secs)
+[2020.05.21-15.58.03:005][ 33]Cmd: DELETE
+[2020.05.21-15.58.03:005][ 33]Cmd: ACTOR DELETE
+[2020.05.21-15.58.03:061][ 33]LogEditorActor: Deleted Actor: Brush
+[2020.05.21-15.58.03:097][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.05.21-15.58.03:265][ 33]LogEditorActor: Deleted 1 Actors (0.258 secs)
+[2020.05.21-15.58.03:931][ 68]Cmd: DELETE
+[2020.05.21-15.58.03:932][ 68]Cmd: ACTOR DELETE
+[2020.05.21-15.58.03:969][ 68]LogEditorActor: Deleted Actor: Brush
+[2020.05.21-15.58.04:005][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.05.21-15.58.04:182][ 68]LogEditorActor: Deleted 1 Actors (0.250 secs)
+[2020.05.21-15.58.04:828][ 99]Cmd: DELETE
+[2020.05.21-15.58.04:828][ 99]Cmd: ACTOR DELETE
+[2020.05.21-15.58.04:869][ 99]LogEditorActor: Deleted Actor: Brush
+[2020.05.21-15.58.04:906][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.05.21-15.58.05:075][ 99]LogEditorActor: Deleted 1 Actors (0.247 secs)
+[2020.05.21-15.58.09:405][360]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2020.05.21-15.59.16:669][201]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.05.21-15.59.17:753][276]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-15.59.17:772][276]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.21-15.59.17:924][276]LogPlayLevel: [PlayLevel] Compiling HorrorEngine before play...
+[2020.05.21-15.59.18:167][276]LogBlueprint: Warning: [Compiler HorrorEngine] Input pin  Method  specifying non-default value no longer exists on node  Set members in PostProcessSettings . Please refresh node or reset pin to default value to remove pin.
+[2020.05.21-15.59.18:491][276]LogActorComponent: RegisterComponentWithWorld: (/Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.DESTROYED_HorrorEngine_C_CHILDACTOR_350.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.21-15.59.18:496][276]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_HorrorEngine_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.21-15.59.18:629][276]LogActorComponent: RegisterComponentWithWorld: (/Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox:PersistentLevel.DESTROYED_HorrorEngine_C_CHILDACTOR_354.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.21-15.59.18:633][276]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_HorrorEngine_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.21-15.59.18:830][276]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.05.21-15.59.18:832][276]LogPlayLevel: PlayLevel: Blueprint regeneration took 1060 ms (1 blueprints)
+[2020.05.21-15.59.18:833][276]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 17:59:18)
+[2020.05.21-15.59.18:834][276]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-15.59.19:006][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171972s)
+[2020.05.21-15.59.19:007][276]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-15.59.19:007][276]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000179F4354A00), frame # 137276
+[2020.05.21-15.59.19:008][276]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A8D852E80), frame # 137276
+[2020.05.21-15.59.19:014][276]LogPlayLevel: PIE: World Init took: (0.007837s)
+[2020.05.21-15.59.19:014][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.180260s)
+[2020.05.21-15.59.19:054][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.21-15.59.19:057][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-15.59.19:057][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-15.59.19:057][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-15.59.19:057][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-15.59.19:057][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-15.59.19:057][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-15.59.19:057][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-15.59.19:057][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-15.59.19:057][276]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-15.59.19:057][276]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-15.59.19:075][276]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-15.59.19:075][276]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-15.59.19:129][276]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-15.59.19:129][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-15.59.19:129][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-15.59.19:129][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-15.59.19:130][276]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-15.59.19:143][276]LogInit: FAudioDevice initialized.
+[2020.05.21-15.59.19:157][276]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-15.59.19:173][276]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-16.59.19
+[2020.05.21-15.59.19:174][276]LogWorld: Bringing up level for play took: 0.013519
+[2020.05.21-15.59.19:174][276]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.05.21-15.59.19:178][276]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-15.59.19:181][276]PIE: Server logged in
+[2020.05.21-15.59.19:182][276]PIE: Play in editor total start time 1.415 seconds.
+[2020.05.21-15.59.19:779][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-15.59.19:809][301]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-15.59.19:829][301]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-15.59.19:835][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-15.59.19:835][301]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-15.59.19:835][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-15.59.19:835][301]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-15.59.19:838][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-15.59.19:846][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-15.59.19:852][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-15.59.19:888][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-15.59.19:890][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-15.59.19:916][301]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A8D852E80), frame # 137301
+[2020.05.21-15.59.19:916][301]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000179F4354A00), frame # 137301
+[2020.05.21-15.59.19:922][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.05.21-15.59.19:974][302]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.05.21-15.59.26:423][738]LogEditorViewport: Clicking on Actor (LMB): Key_C (Key2)
+[2020.05.21-15.59.56:012][793]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-15.59.56:033][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-15.59.56:033][793]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 17:59:56)
+[2020.05.21-15.59.56:033][793]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-15.59.56:202][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168054s)
+[2020.05.21-15.59.56:203][793]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-15.59.56:203][793]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000179D917FA00), frame # 139793
+[2020.05.21-15.59.56:203][793]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001797A685E40), frame # 139793
+[2020.05.21-15.59.56:203][793]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2020.05.21-15.59.56:203][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.169518s)
+[2020.05.21-15.59.56:243][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.05.21-15.59.56:250][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-15.59.56:250][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-15.59.56:250][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-15.59.56:250][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-15.59.56:250][793]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-15.59.56:250][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-15.59.56:250][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-15.59.56:250][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-15.59.56:251][793]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-15.59.56:251][793]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-15.59.56:265][793]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-15.59.56:266][793]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-15.59.56:314][793]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-15.59.56:314][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-15.59.56:314][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-15.59.56:314][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-15.59.56:315][793]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-15.59.56:328][793]LogInit: FAudioDevice initialized.
+[2020.05.21-15.59.56:338][793]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-15.59.56:356][793]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-16.59.56
+[2020.05.21-15.59.56:357][793]LogWorld: Bringing up level for play took: 0.016068
+[2020.05.21-15.59.56:357][793]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.05.21-15.59.56:362][793]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-15.59.56:364][793]PIE: Server logged in
+[2020.05.21-15.59.56:365][793]PIE: Play in editor total start time 0.337 seconds.
+[2020.05.21-16.00.23:873][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.00.23:889][539]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.00.23:909][539]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.00.23:914][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.00.23:914][539]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.00.23:915][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.00.23:915][539]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.00.23:918][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.00.23:928][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.00.23:935][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.00.23:972][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.00.23:995][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.00.23:998][539]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001797A685E40), frame # 141539
+[2020.05.21-16.00.23:998][539]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000179D917FA00), frame # 141539
+[2020.05.21-16.00.24:004][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.05.21-16.00.24:072][540]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.05.21-16.01.28:083][173]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/HorrorEngine/Audio/SFX/DiaryUpdate_Cue.DiaryUpdate_Cue
+[2020.05.21-16.01.33:734][762]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/HorrorEngine/Audio/_ReferenceCues/DiaryUpdate_Ref.DiaryUpdate_Ref
+[2020.05.21-16.01.38:638][264]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/DiaryUpdate_RefDFABD24A470CEA39F009CA9FDDDBF8C3.tmp' to '../../../../../uni/Level/Level_Design_S2/Content/HorrorEngine/Audio/_ReferenceCues/DiaryUpdate_Ref.uasset'
+[2020.05.21-16.01.38:656][264]AssetCheck: New page: Asset Save: DiaryUpdate_Ref
+[2020.05.21-16.01.38:656][264]LogContentValidation: Display: Validating SoundCue /Game/HorrorEngine/Audio/_ReferenceCues/DiaryUpdate_Ref.DiaryUpdate_Ref
+[2020.05.21-16.01.41:232][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Audio/SFX/DiaryUpdate_Cue" FILE="../../../../../uni/Level/Level_Design_S2/Content/HorrorEngine/Audio/SFX/DiaryUpdate_Cue.uasset" SILENT=true
+[2020.05.21-16.01.41:239][534]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/DiaryUpdate_Cue4E51812C4DCFC091CB025184F6EE716F.tmp' to '../../../../../uni/Level/Level_Design_S2/Content/HorrorEngine/Audio/SFX/DiaryUpdate_Cue.uasset'
+[2020.05.21-16.01.41:375][534]AssetCheck: New page: Asset Save: DiaryUpdate_Cue
+[2020.05.21-16.01.41:375][534]LogContentValidation: Display: Validating SoundCue /Game/HorrorEngine/Audio/SFX/DiaryUpdate_Cue.DiaryUpdate_Cue
+[2020.05.21-16.01.42:965][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Audio/Footsteps/Grass_Jump_Cue" FILE="../../../../../uni/Level/Level_Design_S2/Content/HorrorEngine/Audio/Footsteps/Grass_Jump_Cue.uasset" SILENT=true
+[2020.05.21-16.01.42:970][685]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Grass_Jump_Cue1177A2864999EECA5E3CC1A4A30B607B.tmp' to '../../../../../uni/Level/Level_Design_S2/Content/HorrorEngine/Audio/Footsteps/Grass_Jump_Cue.uasset'
+[2020.05.21-16.01.43:003][685]AssetCheck: New page: Asset Save: Grass_Jump_Cue
+[2020.05.21-16.01.43:003][685]LogContentValidation: Display: Validating SoundCue /Game/HorrorEngine/Audio/Footsteps/Grass_Jump_Cue.Grass_Jump_Cue
+[2020.05.21-16.01.45:849][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/HorrorEngine" FILE="../../../../../uni/Level/Level_Design_S2/Content/HorrorEngine/HorrorEngine.uasset" SILENT=true
+[2020.05.21-16.01.46:829][949]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/HorrorEngine1D90DA7A44E325B91C6CBFB555004361.tmp' to '../../../../../uni/Level/Level_Design_S2/Content/HorrorEngine/HorrorEngine.uasset'
+[2020.05.21-16.01.46:857][949]AssetCheck: New page: Asset Save: HorrorEngine
+[2020.05.21-16.01.46:857][949]LogContentValidation: Display: Validating Blueprint /Game/HorrorEngine/HorrorEngine.HorrorEngine
+[2020.05.21-16.01.48:852][132]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-16.01.48:873][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-16.01.48:873][132]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 18:01:48)
+[2020.05.21-16.01.48:873][132]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.01.49:052][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179052s)
+[2020.05.21-16.01.49:053][132]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-16.01.49:053][132]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A4793E200), frame # 149132
+[2020.05.21-16.01.49:053][132]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001793709D800), frame # 149132
+[2020.05.21-16.01.49:054][132]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2020.05.21-16.01.49:054][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.180946s)
+[2020.05.21-16.01.49:098][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.05.21-16.01.49:102][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-16.01.49:102][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-16.01.49:102][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-16.01.49:102][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-16.01.49:102][132]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-16.01.49:102][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-16.01.49:102][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-16.01.49:102][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-16.01.49:102][132]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-16.01.49:102][132]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-16.01.49:127][132]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-16.01.49:127][132]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-16.01.49:177][132]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-16.01.49:177][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-16.01.49:177][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-16.01.49:177][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-16.01.49:177][132]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-16.01.49:194][132]LogInit: FAudioDevice initialized.
+[2020.05.21-16.01.49:204][132]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-16.01.49:221][132]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-17.01.49
+[2020.05.21-16.01.49:222][132]LogWorld: Bringing up level for play took: 0.015202
+[2020.05.21-16.01.49:222][132]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.05.21-16.01.49:226][132]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-16.01.49:230][132]PIE: Server logged in
+[2020.05.21-16.01.49:231][132]PIE: Play in editor total start time 0.363 seconds.
+[2020.05.21-16.02.14:260][139]LogRenderer: Reallocating scene render targets to support 2560x1440 Format 10 NumSamples 1 (Frame:2007).
+[2020.05.21-16.03.13:371][158]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.03.13:379][158]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.03.13:399][158]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.03.13:404][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.03.13:404][158]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.03.13:404][158]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.03.13:404][158]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.03.13:408][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.03.13:415][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.03.13:422][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.03.13:465][158]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.03.13:487][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.03.13:498][158]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001793709D800), frame # 156158
+[2020.05.21-16.03.13:498][158]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A4793E200), frame # 156158
+[2020.05.21-16.03.13:505][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.05.21-16.03.13:578][159]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.05.21-16.03.31:401][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.05.21-16.03.48:333][865]LogEditorViewport: Clicking on Actor (LMB): HorrorEngineCharacter_C (HorrorEngineCharacter)
+[2020.05.21-16.03.49:500][927]LogEditorViewport: Clicking on Actor (LMB): HorrorEngineCharacter_C (HorrorEngineCharacter)
+[2020.05.21-16.03.49:576][928]LogEditorViewport: Clicking on Component (LMB): CameraComponent (PlayerCamera)
+[2020.05.21-16.04.04:043][137]BlueprintLog: New page: Compile HorrorEngineCharacter
+[2020.05.21-16.04.04:257][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.05.21-16.04.06:152][247]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-16.04.06:188][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-16.04.06:188][247]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 18:04:06)
+[2020.05.21-16.04.06:189][247]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.06:379][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191686s)
+[2020.05.21-16.04.06:381][247]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.06:381][247]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A1A62E800), frame # 160247
+[2020.05.21-16.04.06:381][247]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017AA4912D40), frame # 160247
+[2020.05.21-16.04.06:382][247]LogPlayLevel: PIE: World Init took: (0.001796s)
+[2020.05.21-16.04.06:382][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.194599s)
+[2020.05.21-16.04.06:450][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.21-16.04.06:453][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-16.04.06:453][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-16.04.06:453][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-16.04.06:453][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-16.04.06:453][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-16.04.06:454][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-16.04.06:454][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-16.04.06:454][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-16.04.06:454][247]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-16.04.06:454][247]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-16.04.06:476][247]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-16.04.06:476][247]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-16.04.06:537][247]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-16.04.06:537][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-16.04.06:537][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-16.04.06:537][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-16.04.06:538][247]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-16.04.06:555][247]LogInit: FAudioDevice initialized.
+[2020.05.21-16.04.06:565][247]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-16.04.06:586][247]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-17.04.06
+[2020.05.21-16.04.06:586][247]LogWorld: Bringing up level for play took: 0.018799
+[2020.05.21-16.04.06:587][247]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.05.21-16.04.06:591][247]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-16.04.06:594][247]PIE: Server logged in
+[2020.05.21-16.04.06:595][247]PIE: Play in editor total start time 0.411 seconds.
+[2020.05.21-16.04.11:679][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.11:700][667]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.04.11:720][667]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.04.11:726][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.04.11:726][667]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.11:726][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.11:726][667]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.04.11:731][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.04.11:745][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.04.11:751][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.04.11:798][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.11:829][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.04.11:835][667]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017AA4912D40), frame # 160667
+[2020.05.21-16.04.11:835][667]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A1A62E800), frame # 160667
+[2020.05.21-16.04.11:844][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.05.21-16.04.11:920][668]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.05.21-16.04.23:570][720]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.05.21-16.04.23:576][720]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.05.21-16.04.23:576][720]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.05.21-16.04.23:576][720]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.05.21-16.04.23:576][720]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.21-16.04.23:577][720]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.21-16.04.23:577][720]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.05.21-16.04.23:577][720]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.05.21-16.04.23:577][720]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.05.21-16.04.23:666][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.05.21-16.04.25:051][817]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-16.04.25:078][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-16.04.25:078][817]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 18:04:25)
+[2020.05.21-16.04.25:078][817]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.25:258][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179705s)
+[2020.05.21-16.04.25:260][817]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.25:260][817]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017AC29BB800), frame # 161817
+[2020.05.21-16.04.25:260][817]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A8B4CCE00), frame # 161817
+[2020.05.21-16.04.25:260][817]LogPlayLevel: PIE: World Init took: (0.002299s)
+[2020.05.21-16.04.25:260][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.182259s)
+[2020.05.21-16.04.25:330][817]LogUObjectHash: Compacting FUObjectHashTables data took  12.49ms
+[2020.05.21-16.04.25:334][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-16.04.25:334][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-16.04.25:334][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-16.04.25:334][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-16.04.25:334][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-16.04.25:334][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-16.04.25:334][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-16.04.25:334][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-16.04.25:335][817]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-16.04.25:335][817]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-16.04.25:351][817]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-16.04.25:351][817]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-16.04.25:411][817]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-16.04.25:411][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-16.04.25:411][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-16.04.25:411][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-16.04.25:412][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-16.04.25:426][817]LogInit: FAudioDevice initialized.
+[2020.05.21-16.04.25:433][817]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-16.04.25:451][817]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-17.04.25
+[2020.05.21-16.04.25:452][817]LogWorld: Bringing up level for play took: 0.016450
+[2020.05.21-16.04.25:452][817]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.05.21-16.04.25:456][817]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-16.04.25:458][817]PIE: Server logged in
+[2020.05.21-16.04.25:460][817]PIE: Play in editor total start time 0.389 seconds.
+[2020.05.21-16.04.32:902][401]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.32:909][401]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.04.32:930][401]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.04.32:934][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.04.32:934][401]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.32:934][401]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.32:935][401]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.04.32:938][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.04.32:950][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.04.32:955][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.04.32:996][401]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.33:017][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.04.33:022][401]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A8B4CCE00), frame # 162401
+[2020.05.21-16.04.33:022][401]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017AC29BB800), frame # 162401
+[2020.05.21-16.04.33:032][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.05.21-16.04.33:097][402]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.05.21-16.04.42:039][142]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.05.21-16.04.42:044][142]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.05.21-16.04.42:044][142]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.05.21-16.04.42:044][142]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.05.21-16.04.42:044][142]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.21-16.04.42:044][142]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.21-16.04.42:044][142]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.05.21-16.04.42:045][142]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.05.21-16.04.42:045][142]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.05.21-16.04.42:122][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.05.21-16.04.43:594][254]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-16.04.43:624][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-16.04.43:624][254]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 18:04:43)
+[2020.05.21-16.04.43:624][254]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.43:834][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210258s)
+[2020.05.21-16.04.43:835][254]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.43:835][254]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017ABAA37E00), frame # 163254
+[2020.05.21-16.04.43:835][254]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000179E3038B80), frame # 163254
+[2020.05.21-16.04.43:835][254]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2020.05.21-16.04.43:835][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.211789s)
+[2020.05.21-16.04.43:897][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.05.21-16.04.43:907][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-16.04.43:907][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-16.04.43:907][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-16.04.43:907][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-16.04.43:907][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-16.04.43:907][254]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-16.04.43:907][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-16.04.43:907][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-16.04.43:909][254]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-16.04.43:909][254]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-16.04.43:923][254]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-16.04.43:923][254]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-16.04.43:972][254]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-16.04.43:972][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-16.04.43:972][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-16.04.43:972][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-16.04.43:972][254]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-16.04.43:990][254]LogInit: FAudioDevice initialized.
+[2020.05.21-16.04.43:997][254]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-16.04.44:013][254]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-17.04.44
+[2020.05.21-16.04.44:013][254]LogWorld: Bringing up level for play took: 0.013703
+[2020.05.21-16.04.44:013][254]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.05.21-16.04.44:018][254]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-16.04.44:021][254]PIE: Server logged in
+[2020.05.21-16.04.44:022][254]PIE: Play in editor total start time 0.403 seconds.
+[2020.05.21-16.04.53:030][931]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.53:039][931]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.04.53:060][931]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.04.53:065][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.04.53:065][931]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.04.53:065][931]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.53:065][931]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.04.53:068][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.04.53:080][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.04.53:085][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.04.53:129][931]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.04.53:148][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.04.53:162][931]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000179E3038B80), frame # 163931
+[2020.05.21-16.04.53:162][931]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017ABAA37E00), frame # 163931
+[2020.05.21-16.04.53:167][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.21-16.04.53:237][932]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.05.21-16.05.02:614][797]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.05.21-16.05.02:619][797]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.05.21-16.05.02:619][797]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.05.21-16.05.02:619][797]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.05.21-16.05.02:620][797]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.21-16.05.02:620][797]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.21-16.05.02:620][797]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.05.21-16.05.02:620][797]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.05.21-16.05.02:620][797]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.05.21-16.05.02:695][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.05.21-16.05.04:053][895]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-16.05.04:078][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-16.05.04:078][895]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 18:05:04)
+[2020.05.21-16.05.04:079][895]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.05.04:262][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183669s)
+[2020.05.21-16.05.04:263][895]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-16.05.04:263][895]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017AA027FC00), frame # 164895
+[2020.05.21-16.05.04:264][895]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017901761E40), frame # 164895
+[2020.05.21-16.05.04:265][895]LogPlayLevel: PIE: World Init took: (0.002084s)
+[2020.05.21-16.05.04:265][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.186087s)
+[2020.05.21-16.05.04:329][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.05.21-16.05.04:335][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-16.05.04:335][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-16.05.04:335][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-16.05.04:335][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-16.05.04:335][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-16.05.04:335][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-16.05.04:335][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-16.05.04:335][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-16.05.04:335][895]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-16.05.04:336][895]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-16.05.04:351][895]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-16.05.04:351][895]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-16.05.04:394][895]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-16.05.04:394][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-16.05.04:394][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-16.05.04:394][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-16.05.04:394][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-16.05.04:414][895]LogInit: FAudioDevice initialized.
+[2020.05.21-16.05.04:426][895]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-16.05.04:445][895]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-17.05.04
+[2020.05.21-16.05.04:445][895]LogWorld: Bringing up level for play took: 0.016524
+[2020.05.21-16.05.04:446][895]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.05.21-16.05.04:450][895]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-16.05.04:453][895]PIE: Server logged in
+[2020.05.21-16.05.04:454][895]PIE: Play in editor total start time 0.379 seconds.
+[2020.05.21-16.05.09:162][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.05.09:170][206]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.05.09:189][206]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.05.09:194][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.05.09:194][206]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.05.09:194][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.05.09:194][206]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.05.09:198][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.05.09:208][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.05.09:215][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.05.09:264][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.05.09:289][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.05.09:294][206]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017901761E40), frame # 165206
+[2020.05.21-16.05.09:294][206]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017AA027FC00), frame # 165206
+[2020.05.21-16.05.09:299][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.05.21-16.05.09:366][207]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.05.21-16.05.17:836][996]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.21-16.05.18:278][  8]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.21-16.05.31:404][202]LogSlate: Window 'HorrorEngineCharacter' being destroyed
+[2020.05.21-16.05.36:594][658]BlueprintLog: New page: Compile HorrorEngineCharacter
+[2020.05.21-16.05.36:714][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.05.21-16.05.38:344][756]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-16.05.38:364][756]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.21-16.05.38:365][756]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.05.21-16.05.38:368][756]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.05.21-16.05.38:368][756]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.05.21-16.05.38:368][756]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.05.21-16.05.38:369][756]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.21-16.05.38:369][756]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.21-16.05.38:369][756]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.05.21-16.05.38:369][756]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.05.21-16.05.38:369][756]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.05.21-16.05.38:482][756]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2020.05.21-16.05.38:487][756]LogPlayLevel: PlayLevel: Blueprint regeneration took 123 ms (1 blueprints)
+[2020.05.21-16.05.38:487][756]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 18:05:38)
+[2020.05.21-16.05.38:488][756]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.05.38:698][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210195s)
+[2020.05.21-16.05.38:700][756]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-16.05.38:700][756]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017AA03D7E00), frame # 167756
+[2020.05.21-16.05.38:700][756]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000179D6CC0680), frame # 167756
+[2020.05.21-16.05.38:701][756]LogPlayLevel: PIE: World Init took: (0.002669s)
+[2020.05.21-16.05.38:701][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.213156s)
+[2020.05.21-16.05.38:757][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.05.21-16.05.38:760][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-16.05.38:761][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-16.05.38:761][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-16.05.38:761][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-16.05.38:761][756]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-16.05.38:761][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-16.05.38:761][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-16.05.38:761][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-16.05.38:761][756]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-16.05.38:761][756]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-16.05.38:794][756]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-16.05.38:794][756]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-16.05.38:848][756]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-16.05.38:849][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-16.05.38:849][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-16.05.38:849][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-16.05.38:849][756]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-16.05.38:864][756]LogInit: FAudioDevice initialized.
+[2020.05.21-16.05.38:872][756]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-16.05.38:891][756]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-17.05.38
+[2020.05.21-16.05.38:892][756]LogWorld: Bringing up level for play took: 0.016968
+[2020.05.21-16.05.38:892][756]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.05.21-16.05.38:897][756]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-16.05.38:900][756]PIE: Server logged in
+[2020.05.21-16.05.38:901][756]PIE: Play in editor total start time 0.541 seconds.
+[2020.05.21-16.05.44:567][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.05.44:579][185]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.05.44:600][185]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.05.44:605][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.05.44:605][185]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.05.44:605][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.05.44:605][185]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.05.44:610][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.05.44:620][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.05.44:626][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.05.44:668][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.05.44:670][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.05.44:704][185]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000179D6CC0680), frame # 168185
+[2020.05.21-16.05.44:704][185]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017AA03D7E00), frame # 168185
+[2020.05.21-16.05.44:713][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.05.21-16.05.44:776][186]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.05.21-16.07.04:978][402]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.05.21-16.07.05:093][402]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2020.05.21-16.07.05:784][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.21-16.07.05:853][402]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2020.05.21-16.07.06:126][402]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.21-16.07.27:325][400]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.07.27:325][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.08.04:870][108]BlueprintLog: New page: Compile HorrorEngineCharacter
+[2020.05.21-16.08.05:258][108]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.05.21-16.08.07:827][335]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-16.08.07:851][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-16.08.07:851][335]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 18:08:07)
+[2020.05.21-16.08.07:851][335]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.08.08:105][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.252974s)
+[2020.05.21-16.08.08:108][335]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-16.08.08:108][335]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A01719A00), frame # 181335
+[2020.05.21-16.08.08:108][335]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000179D5AC8A40), frame # 181335
+[2020.05.21-16.08.08:109][335]LogPlayLevel: PIE: World Init took: (0.004202s)
+[2020.05.21-16.08.08:109][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.257423s)
+[2020.05.21-16.08.08:175][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.05.21-16.08.08:179][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-16.08.08:180][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-16.08.08:180][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-16.08.08:180][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-16.08.08:180][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-16.08.08:180][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-16.08.08:180][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-16.08.08:180][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-16.08.08:180][335]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-16.08.08:180][335]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-16.08.08:199][335]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-16.08.08:199][335]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-16.08.08:247][335]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-16.08.08:247][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-16.08.08:248][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-16.08.08:248][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-16.08.08:248][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-16.08.08:264][335]LogInit: FAudioDevice initialized.
+[2020.05.21-16.08.08:278][335]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-16.08.08:295][335]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-17.08.08
+[2020.05.21-16.08.08:296][335]LogWorld: Bringing up level for play took: 0.014936
+[2020.05.21-16.08.08:296][335]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.05.21-16.08.08:300][335]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-16.08.08:302][335]PIE: Server logged in
+[2020.05.21-16.08.08:303][335]PIE: Play in editor total start time 0.457 seconds.
+[2020.05.21-16.08.13:508][763]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.08.13:528][763]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.08.13:559][763]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.08.13:564][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.08.13:564][763]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.08.13:564][763]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.08.13:564][763]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.08.13:569][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.08.13:580][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.08.13:587][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.08.13:629][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.08.13:633][763]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.08.13:661][763]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000179D5AC8A40), frame # 181763
+[2020.05.21-16.08.13:661][763]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A01719A00), frame # 181763
+[2020.05.21-16.08.13:667][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.05.21-16.08.13:734][764]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.05.21-16.09.19:000][267]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.21-16.09.36:765][788]LogEditorTransaction: Undo Paste Component(s)
+[2020.05.21-16.10.00:501][691]BlueprintLog: New page: Compile HorrorEngineCharacter
+[2020.05.21-16.10.01:202][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.05.21-16.10.03:171][824]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.21-16.10.03:199][824]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.21-16.10.03:200][824]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.05.21-16.10.03:204][824]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.05.21-16.10.03:205][824]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.05.21-16.10.03:206][824]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.05.21-16.10.03:207][824]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.05.21-16.10.03:207][824]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.05.21-16.10.03:207][824]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.05.21-16.10.03:207][824]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.05.21-16.10.03:207][824]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.05.21-16.10.03:349][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.05.21-16.10.03:354][824]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2020.05.21-16.10.03:354][824]PIE: New page: PIE session: Wendigo_Asylum_WhiteBox (21 May 2020, 18:10:03)
+[2020.05.21-16.10.03:354][824]LogPlayLevel: Creating play world package: /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.10.03:534][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180899s)
+[2020.05.21-16.10.03:535][824]LogAIModule: Creating AISystem for world Wendigo_Asylum_WhiteBox
+[2020.05.21-16.10.03:535][824]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017AB2AB9600), frame # 190824
+[2020.05.21-16.10.03:535][824]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017AF62607C0), frame # 190824
+[2020.05.21-16.10.03:537][824]LogPlayLevel: PIE: World Init took: (0.002604s)
+[2020.05.21-16.10.03:537][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox to /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox (0.183844s)
+[2020.05.21-16.10.03:591][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.05.21-16.10.03:595][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-16.10.03:595][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-16.10.03:595][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-16.10.03:595][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-16.10.03:595][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-16.10.03:595][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-16.10.03:595][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-16.10.03:595][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-16.10.03:596][824]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-16.10.03:596][824]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-16.10.03:615][824]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-16.10.03:616][824]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-16.10.03:669][824]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2020.05.21-16.10.03:670][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.05.21-16.10.03:670][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.05.21-16.10.03:670][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.05.21-16.10.03:670][824]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.05.21-16.10.03:685][824]LogInit: FAudioDevice initialized.
+[2020.05.21-16.10.03:696][824]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.21-16.10.03:714][824]LogWorld: Bringing World /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox up for play (max tick rate 0) at 2020.05.21-17.10.03
+[2020.05.21-16.10.03:715][824]LogWorld: Bringing up level for play took: 0.015620
+[2020.05.21-16.10.03:715][824]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.05.21-16.10.03:719][824]LogStreaming: Warning: Failed to read file '../../../../../uni/Level/Level_Design_S2/Saved/SaveGames/SaveSlotList.sav' error.
+[2020.05.21-16.10.03:722][824]PIE: Server logged in
+[2020.05.21-16.10.03:723][824]PIE: Play in editor total start time 0.528 seconds.
+[2020.05.21-16.10.13:291][524]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.10.13:309][524]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-16.10.13:329][524]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-16.10.13:334][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.10.13:334][524]LogWorld: BeginTearingDown for /Game/WhiteBox/UEDPIE_0_Wendigo_Asylum_WhiteBox
+[2020.05.21-16.10.13:334][524]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.10.13:334][524]LogWorld: UWorld::CleanupWorld for Wendigo_Asylum_WhiteBox, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-16.10.13:337][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.10.13:351][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-16.10.13:361][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-16.10.13:414][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-16.10.13:415][524]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-16.10.13:446][524]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017AF62607C0), frame # 191524
+[2020.05.21-16.10.13:447][524]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017AB2AB9600), frame # 191524
+[2020.05.21-16.10.13:452][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.05.21-16.10.13:527][525]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.05.21-16.10.19:400][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.05.21-16.10.20:135][984]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Wendigo_Asylum_WhiteBoxA2E2E47A420AC53708EC9A82E7ED34BB.tmp' to '../../../../../uni/Level/Level_Design_S2/Content/WhiteBox/Wendigo_Asylum_WhiteBox.umap'
+[2020.05.21-16.10.20:181][984]LogFileHelpers: Saving map 'Wendigo_Asylum_WhiteBox' took 0.835
+[2020.05.21-16.10.20:181][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteBox/Wendigo_Asylum_WhiteBox_BuiltData" FILE="../../../../../uni/Level/Level_Design_S2/Content/WhiteBox/Wendigo_Asylum_WhiteBox_BuiltData.uasset" SILENT=true
+[2020.05.21-16.10.20:517][984]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Wendigo_Asylum_WhiteBox_BuiltDatF811EA104348A216FEAE17B72FD330F5.tmp' to '../../../../../uni/Level/Level_Design_S2/Content/WhiteBox/Wendigo_Asylum_WhiteBox_BuiltData.uasset'
+[2020.05.21-16.10.20:565][984]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.21-16.10.20:565][984]LogContentValidation: Display: Validating World /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox
+[2020.05.21-16.10.20:565][984]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/WhiteBox/Wendigo_Asylum_WhiteBox_BuiltData.Wendigo_Asylum_WhiteBox_BuiltData
