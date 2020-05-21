@@ -3578,3 +3578,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.21-17.03.46:346][502]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.21-17.03.46:346][502]LogContentValidation: Display: Validating World /Game/WhiteBox/Wendigo_Asylum_WhiteBox.Wendigo_Asylum_WhiteBox
 [2020.05.21-17.03.46:346][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/WhiteBox/Wendigo_Asylum_WhiteBox_BuiltData.Wendigo_Asylum_WhiteBox_BuiltData
+[2020.05.21-18.34.53:787][231]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.21-19.39.02:140][ 88]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f9ac6068-0405-4535-91a5-beb0e8dec71b}.
+[2020.05.21-19.39.02:140][ 88]LogTemp: Resetting audio stream to device id 
+[2020.05.21-19.39.02:243][ 88]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-19.39.02:243][ 88]LogAudioMixer: Display: 1: FrontRight
