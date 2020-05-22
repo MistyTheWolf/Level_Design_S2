@@ -8754,3 +8754,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.22-01.38.43:189][191]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001798C48AE00), frame # 1565191
 [2020.05.22-01.38.43:196][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
 [2020.05.22-01.38.43:282][192]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2020.05.22-01.47.19:635][928]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.05.22-01.47.20:230][928]LogSavePackage: Moving '../../../../../uni/Level/Level_Design_S2/Saved/Wendigo_Asylum_WhiteBox_Auto0E0B2C18945B336C415C215B1F4BC468A.tmp' to '../../../../../uni/Level/Level_Design_S2/Saved/Autosaves/Game/WhiteBox/Wendigo_Asylum_WhiteBox_Auto0.umap'
+[2020.05.22-01.47.20:233][928]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WhiteBox/Wendigo_Asylum_WhiteBox' took 0.646
+[2020.05.22-01.47.20:233][928]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.646
